@@ -22,5 +22,5 @@ PARA O WAMP Antes de tudo abra o wamp e ligue todos os serviços 1°Abra a pasta
 4°tire os arquivos do winrar deste projeto dentro da pasta wwww <br>
 pronto o sistema está no servidor local <br> 
 
-![image](https://user-images.githubusercontent.com/55327081/213805737-4aae62d5-720f-4861-9531-bc7130ea0054.png)
-![image](https://user-images.githubusercontent.com/55327081/213805769-3fe492f7-0bd9-47e8-ba84-796739d2d8a7.png)
+![image](https://user-images.githubusercontent.com/55327081/213806823-306cdb1b-001d-4ecf-ae81-b69a3572917a.png)
+![image](https://user-images.githubusercontent.com/55327081/213806860-b8e06993-dc22-42ad-8bd1-1f9213d61697.png)
