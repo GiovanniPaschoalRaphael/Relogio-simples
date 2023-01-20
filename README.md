@@ -24,3 +24,6 @@ pronto o sistema está no servidor local <br>
 
 ![image](https://user-images.githubusercontent.com/55327081/213806823-306cdb1b-001d-4ecf-ae81-b69a3572917a.png)
 ![image](https://user-images.githubusercontent.com/55327081/213806860-b8e06993-dc22-42ad-8bd1-1f9213d61697.png)
+
+
+Para acessar o projeto acesse o seguinte caminho na barra de pesquisa do navedador http://localhost/relogio/
